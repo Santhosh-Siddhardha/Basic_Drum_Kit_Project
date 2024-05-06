@@ -28,19 +28,19 @@ The drum kit consists of seven buttons, each representing a different drum instr
 
 ## How to Use
 
-**Click the Link to view:**
+**Click the Link to view:** https://santhosh-siddhardha.github.io/Basic_Drum_Kit_Project/
 
 **Interact with the Drum Kit:**
-Click on the drum buttons using your mouse cursor to trigger drum sounds.
-Alternatively, use the following keyboard keys to play drum sounds:
-w (Crash)
-a (Kick Bass)
-s (Snare)
-d (Tom-1)
-j (Tom-2)
-k (Tom-3)
-l (Tom-4)
-Enjoy Playing!
+- Click on the drum buttons using your mouse cursor to trigger drum sounds.
+- Alternatively, use the following keyboard keys to play drum sounds:
+  w (Crash)
+  a (Kick Bass)
+  s (Snare)
+  d (Tom-1)
+  j (Tom-2)
+  k (Tom-3)
+  l (Tom-4)
+- Enjoy Playing!
 
 ## Author
 **Lingamueni Santhosh Siddhardha**
